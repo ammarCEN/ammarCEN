@@ -16,8 +16,14 @@
 🚩 Interested in Full Stack Application development
 </pre>
 
+# 🎯 Ongoing Projects <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+<pre>
+	- Developing a Full Stack Flutter mobile application for university students to extract important deadlines, send smart reminders, and manage courses efficiently.
+	- Designing and implementing a Full Stack Supplier Account Management System (Bank Statement Software) to generate, track, and organize supplier account statements.
+</pre>
 
-# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+
+# 💻 Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 
 ![Fluttwe](https://img.shields.io/badge/Flutter-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
