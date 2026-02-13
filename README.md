@@ -2,17 +2,17 @@
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Programming+Expert;Full+Stack+Developer;Flutter%20|%20TKinter;AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Programming+Expert;Full+Stack+Developer;NextJS%20|%20Flutter%20|%20TKinter;AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
 	</a>
 </p>
 
 <pre>
-📚 I am an undergraduate student in Computer Engineering
+📚 I am an upcoming graduate student in Computer Engineering
 💻 I am developing my skills as a Frontend Developer & Backend Developer | Enthuastic about new technologies
 📝 I have a strong interest in UI/UX Design
-🔭 Working on application development using the Flutter framework
+🔭 Working on personal CV website using NextJS
 🌱 Focusing on understanding customer needs and building solutions to make their lives easier
-🌟 Main languages: Java, Python, Dart
+🌟 Main languages: TypeScript (TS), JavaScript (JS), Dart, Python, Java
 🚩 Interested in Full Stack Application development
 </pre>
 
@@ -25,7 +25,9 @@
 
 # 💻 Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Fluttwe](https://img.shields.io/badge/Flutter-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
